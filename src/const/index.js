@@ -1,0 +1,1 @@
+export const MAPBOX_TOKEN = 'pk.eyJ1IjoibGl5b25nNzU3NTc1IiwiYSI6ImNqdTB2b2Z0NzNqa2U0OHBjd2FpMG1sbWsifQ.8N-xeabbcBaUu2uZZSMYlA'; // eslint-disable-line
